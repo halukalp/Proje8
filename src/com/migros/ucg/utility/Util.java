@@ -3,6 +3,7 @@ package com.migros.ucg.utility;
 import javax.swing.*;
 import java.util.List;
 
+//
 public final class Util
 {
     private Util() {}
