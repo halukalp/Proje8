@@ -1,5 +1,9 @@
 package com.migros.ucg.abstract_classes.utility;
 
+/**
+ *  Madde cesit ve buna karsilik gelen yogunluk bilgilerini
+ *  cekmek uzere tanimlanan enum
+ */
 public enum MaddeTur
 {
     DEMIR(7.874),
